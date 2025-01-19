@@ -1,4 +1,4 @@
-# Factorial 
+# Factorial of the numbers  
 n = int(input("Enter a number: "))
 
 def fact(n):
