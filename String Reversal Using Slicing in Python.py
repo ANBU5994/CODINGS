@@ -1,4 +1,4 @@
  # String Reversal Using Slicing in Python
-string="Anbu"
+string="Anbuu"
 string=string[::-1]
 print(string)
