@@ -1,5 +1,4 @@
 # To check the number is vowel or not 
-
 def check_vowel(n):
     n=n.lower()
     if n in ('aeiou'):
