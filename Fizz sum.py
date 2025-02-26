@@ -1,5 +1,4 @@
 ''' %3 fizz , 5% ,%3 and 5% FIZZ , np --> number alone '''
-
 def num(n):
     if (n %3 ==0) :
         print("fizz")
