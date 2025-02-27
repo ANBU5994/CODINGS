@@ -1,6 +1,5 @@
 
 # gcd of the two numbers
-
 def gcd_calci(a,b):
     if a>b:
         a,b=b,a
