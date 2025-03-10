@@ -1,8 +1,7 @@
 def num(taxi,distance):
     print("Taxi Number : ",taxi)
     print("Distance Covered : ",distance)
-    
-    if distance <= 5:
+     if distance <= 5:
         return("amount: 100 ")
     elif distance <= 10:
         val=distance-5
